@@ -1,3 +1,3 @@
 # Cyber Security
 
-mongkhon wichaiphap
+mongkhon wichaiphap (SEK)
